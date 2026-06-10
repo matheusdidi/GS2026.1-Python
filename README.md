@@ -45,3 +45,7 @@ Sentinela
 ## Equipe
 
 Equipe Ômega
+
+## Link do vídeo no Youtube
+
+https://youtu.be/iLoKMVFoxKo?si=EaDtPbXziYtvMRaQ
